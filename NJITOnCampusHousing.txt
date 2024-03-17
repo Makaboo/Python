@@ -1,0 +1,33 @@
+
+Room Type	                                                    Price
+--------------------------------------------------------------------------
+1.
+Cypress-Double Room	                                            $4,830
+Cypress-Double Room, Private Bath	                            $4,950
+Cypress-Single Room, Shared Bath	                            $5,650
+Cypress-Single Room, Private Bath	                            $6,010
+
+2.
+Martinson Residence Hall (Honors) -Double Room	                    $4,960
+Martinson Residence Hall (Honors) -Double Room, Private Bath	    $5,090
+Martinson Residence Hall (Honors)-Single Room, Shared Bath	    $5,800
+Martinson Residence Hall (Honors)-Single Room, Private Bath	    $6,140
+
+3.
+Laurel-Double Room	                                            $4,830
+Laurel-Double Room, Private Bath	                            $4,950
+Laurel-C Single Room, Shared Bath	                            $5,540
+Laurel-Single Room, Shared Bath	                                    $5,650
+Laurel-Single Room, Private Bath	                            $6,010
+
+4.
+Redwood-Single Room	                                            $5,310
+Redwood Double Room	                                            $4,620
+
+5.
+Oak-Double Room	                                                    $4,830
+Oak-Single Room, Shared Bath	                                    $5,650
+
+6.
+Greek Village Rented Units Double Room	                            $4,960
+Greek Village Owned Units Double Room	                            $4,830

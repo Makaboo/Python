@@ -1,0 +1,4 @@
+Permit Type	Fee
+-----------------------
+Commuter FT	$346.53
+Commuter PT      $194.06

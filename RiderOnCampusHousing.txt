@@ -1,0 +1,10 @@
+Housing Options	                        Per Semester
+----------------------------------------------------
+1. Standard Double 	                $5,215
+2. Air Conditioned Double	        $5,885
+3. Double as Single	                $6,795
+4. Suites	                        $6,395
+5. Apartments	                        $6,680
+6. RA/CA Rate	                        $1,305
+7. Poyda Double/Single with Air	        $6,120
+8. Poyda Double/Single without Air	$5,620
